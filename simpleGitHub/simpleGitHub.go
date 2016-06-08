@@ -1,5 +1,5 @@
 package simpleGitHub
 
-func addTwo(x, y int) int {
+func AddTwo(x, y int) int {
 	return x + y
 }
