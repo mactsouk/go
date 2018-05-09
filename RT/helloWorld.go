@@ -1,9 +1,9 @@
-package main
+package aPackage
 
 import (
 "fmt"
 )
 
-func main() {
+func init() {
   fmt.Println("Hello World version 2!")
 }
