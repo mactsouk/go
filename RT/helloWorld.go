@@ -1,4 +1,4 @@
-package aPackage
+package helloWorld
 
 import (
 "fmt"
