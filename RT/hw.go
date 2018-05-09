@@ -4,7 +4,7 @@ import (
 "fmt"
 )
 
-func main() {
+fun main() {
   fmt.Println("Hello World!")
   fmt.Println("Γεια σου κόσμε!")
 }
